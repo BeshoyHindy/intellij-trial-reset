@@ -1,5 +1,5 @@
 # intellij-trial-reset
-It's a permenant intellij trial reset
+It's a permanent intellij trial reset
 
 1- download "[ide-eval-resetter-2.1.6.zip](https://github.com/30iahkolLaw/intellij-trial-reset/raw/main/ide-eval-resetter-2.1.6.zip)", drag and drop it into your ide.
 
