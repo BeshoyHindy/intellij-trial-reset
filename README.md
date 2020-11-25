@@ -7,7 +7,7 @@ It's a intellij trial reset
 
 3- click yes to restart your IDE.
 
-4- your ide will get restarted and you can get 30 more days without a problem. and you will get 30 more days again after each ide close.
+4- your ide will get restarted and you can get 30 more days without a problem. and you will get 30 more days again after each ide restart.
 
 
 if you enjoyed, star this repo so i keep it updated
