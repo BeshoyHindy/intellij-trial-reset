@@ -8,4 +8,4 @@ It's a intellij trial reset
 3- your ide will get restarted and you can get 30 more days without a problem.
 
 
-if you enjoy start this repo so i keep it updated
+if you enjoyed, star this repo so i keep it updated
