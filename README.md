@@ -1,7 +1,7 @@
 # intellij-trial-reset
 It's a permanent IntelliJ Trial Reset
 
-1- Download "[ide-eval-resetter-2.1.10.zip](https://github.com/30iahkolLaw/intellij-trial-reset/raw/main/ide-eval-resetter-2.1.10.zip)", drag and drop it into your ide.
+1- Download "[ide-eval-resetter-2.1.13.zip](https://github.com/30iahkolLaw/intellij-trial-reset/raw/main/ide-eval-resetter-2.1.13.zip)", drag and drop it into your ide.
 
 2- Go to Help-> Eval Reset, in the right down coner check "Auto reset before per restart" and finally click on reset.
 
